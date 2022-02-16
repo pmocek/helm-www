@@ -10,7 +10,7 @@ This part of the Best Practices Guide explains general conventions.
 ## Chart Names
 
 Chart names must be lower case letters and numbers. Words _may_ be separated
-with dashes (-):
+with hyphens (-):
 
 Examples:
 
